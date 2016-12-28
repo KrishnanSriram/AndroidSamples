@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="next_button_title">Next</string>
+    <string name="true_button_title">True</string>
+    <string name="false_button_title">False</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="incorrect_answer">Sorry, your answer is not right</string>
+</resources>
