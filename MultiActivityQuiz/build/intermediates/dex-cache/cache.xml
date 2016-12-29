@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dc71953f07f430a70f13c8cee8fe840c690aa5f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e3313a1dfff5c3fda41ee81aa21c8d95e36e234d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_4ee748050af7bc120c05104776158dd2f2ce8c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_f2d03342b0d706623eb1ebaea60aaa0739acab5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_883a0095ee300347e0fdf9ca23d5840e07352a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e113ca66d10856cf23f99adcbd6d50c982c23225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d4bb10b8e9781bb6399b5a34ffe03591011a8438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_cac731f8761b4762916461e1246e66deea692bba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_6253c1633c596e73f39a0c3ddb148285d558a9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_e95c424200c7d8ea4555416919eeff2e31670255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f95f2c00472f67c1a8c828cc9f942766c9197a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_d6ea9f204dc38bd2387350bdb8445be38d86b168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_e451dce778ff74195bbccdbdcee4b89c960e985c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_20b470be396a466d06b159c9c75482223cee3ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f620fdfab886c7bac9510b2a21ee0f88bac81960">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e843f79b02539f8f18b2ec96bdd3138fdd1764eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c9952d3513eaada68d35deea663ef57b881fc59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_2dff3d861ff96a8d23937ad6ea9def5dfeafe33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a3243c697db8dab4dc9a8be8d2df7bde4e7b4e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5de5ccefe1b3379a53e47e5dc2deb7f1e9239cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4353ffff81fdbcc98b16722bea0d1bd5600745c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_9ea258ce7f60f5ac6850f4a90a61ef32ab0cbf3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_901385530206adf164d2534d054d2f45d188ff10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3a7982fa6d7ced8c5f6f29ac32aa98030ff1bc1">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_66c0b8f470f10529a96c17222097a66a9a092d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="948ca87565df533cc257fb49baecdb4a1375df68">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/instant-run_4d73d189abcbe8f831b605cea88f7466240819d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_cf19afd4b07ab527db07e6c8cc19402d191a3f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cf0b2857bac0e382968b6791508d237ff3455ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_48eef52c29bec0aa04f88aec567a221d2063ffcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_89495d9bd2fd1c4caebe4b73e1d9c84cc5255330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_7f99e424aba7f51d777cb6ccd71fbf3fe9b87a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_73240385e0f8bb144560e5bfa2182b7da74277df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fc4c8954285be442ca1b018b4681912c736f989b">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/instant-run_2f997eceb72f0d923a94538daf9bda4fc08f7056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/SimpleQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_194cf23808f3dac04f5fe20534ab84153c95306f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/krishnansriramrama/Projects/Android/MultiActivityQuiz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d9f5cbf382a0e8c00fb5e66979ccdd72b40414ff.jar" />
+    </item>
+
+</items>

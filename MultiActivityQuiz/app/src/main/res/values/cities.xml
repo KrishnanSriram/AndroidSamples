@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_prefix">Capital for </string>
+    <string name="question_postfix"></string>
+    <string name="question_1">USA is Washington, D.C</string>
+    <bool name="answer_1">true</bool>
+    <string name="question_2">India is Mumbai</string>
+    <bool name="answer_2">false</bool>
+    <string name="question_3">Australia is Canbera</string>
+    <bool name="answer_3">true</bool>
+    <string name="question_4">China is HongKong</string>
+    <bool name="answer_4">false</bool>
+    <string name="question_5">Egypt is Cairo</string>
+    <bool name="answer_5">true</bool>
+</resources>
