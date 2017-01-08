@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleActionBar</string>
+    <string name="privacy_security_menu">Privacy and Security</string>
+    <string name="legal_menu">Legal</string>
+    <string name="exit_menu">Exit</string>
+    <string name="contact_us_menu">Contact Us</string>
+</resources>
