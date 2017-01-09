@@ -1,25 +1,17 @@
 package com.sampleactionbar.android.simpleactionbar;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.webkit.WebView;
-import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    private WebView mWebView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mWebView = (WebView)findViewById(R.id.webview);
-        mWebView.getSettings().setLoadsImagesAutomatically(true);
-        mWebView.getSettings().setJavaScriptEnabled(true);
-        mWebView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
-        mWebView.setWebViewClient(new WebViewClient());
     }
 
     @Override
@@ -30,18 +22,27 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        Intent containerIntent = null;
         switch (item.getItemId()) {
             case R.id.add:
-                mWebView.loadUrl("http://grangenodewebscrapservice.azurewebsites.net/grange/privacysecurity");
+                containerIntent = new Intent(this, ContainerActivity.class);
+                containerIntent.putExtra("webLink", "http://grangenodewebscrapservice.azurewebsites.net/grange/privacysecurity");
+                startActivity(containerIntent);
                 return true;
             case R.id.about:
-                mWebView.loadUrl("http://grangenodewebscrapservice.azurewebsites.net/grange/privacysecurity");
+                containerIntent = new Intent(this, ContainerActivity.class);
+                containerIntent.putExtra("webLink", "http://grangenodewebscrapservice.azurewebsites.net/grange/privacysecurity");
+                startActivity(containerIntent);
                 return true;
             case R.id.legal:
-                mWebView.loadUrl("http://grangenodewebscrapservice.azurewebsites.net/grange/legal");
+                containerIntent = new Intent(this, ContainerActivity.class);
+                containerIntent.putExtra("webLink", "http://grangenodewebscrapservice.azurewebsites.net/grange/legal");
+                startActivity(containerIntent);
                 return true;
             case R.id.contact_us:
-                mWebView.loadUrl("http://grangenodewebscrapservice.azurewebsites.net/grange/contact");
+                containerIntent = new Intent(this, ContainerActivity.class);
+                containerIntent.putExtra("webLink", "http://grangenodewebscrapservice.azurewebsites.net/grange/contact");
+                startActivity(containerIntent);
                 return true;
             case R.id.exit:
                 finish();
