@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleTabBar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_tab_1_fragment">Hello fragment 1</string>
+    <string name="hello_tab_2_fragment">Hello fragment 2</string>
+    <string name="hello_tab_3_fragment">Hello fragment 3</string>
+</resources>
