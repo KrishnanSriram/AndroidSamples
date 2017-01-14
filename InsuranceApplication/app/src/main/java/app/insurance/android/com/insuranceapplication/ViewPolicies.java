@@ -1,5 +1,6 @@
 package app.insurance.android.com.insuranceapplication;
 
+import android.app.ListActivity;
 import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
@@ -7,6 +8,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
+
+import java.util.ArrayList;
 
 
 /**
@@ -26,6 +30,7 @@ public class ViewPolicies extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+    private ListView mListView;
 
     private OnFragmentInteractionListener mListener;
 
@@ -64,7 +69,13 @@ public class ViewPolicies extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_view_policies, container, false);
+        View view = inflater.inflate(R.layout.fragment_view_policies, container, false);
+        ListView lv = (ListView)view.findViewById(R.id.listview);
+
+        PolicyListAdapter lvAdapter = new PolicyListAdapter(getActivity(), generateData());
+        lv.setAdapter(lvAdapter);;
+
+        return view;
     }
 
     // TODO: Rename method, update argument and hook method into UI event
@@ -104,5 +115,15 @@ public class ViewPolicies extends Fragment {
     public interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
+    }
+
+    private ArrayList<PolicyInformationModel> generateData(){
+        ArrayList<PolicyInformationModel> models = new ArrayList<PolicyInformationModel>();
+        models.add(new PolicyInformationModel("Group Title"));
+        models.add(new PolicyInformationModel(R.drawable.action_help,"Menu Item 1","1"));
+        models.add(new PolicyInformationModel(R.drawable.action_help,"Menu Item 2","2"));
+        models.add(new PolicyInformationModel(R.drawable.action_help,"Menu Item 3","12"));
+
+        return models;
     }
 }
