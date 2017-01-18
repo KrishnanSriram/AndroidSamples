@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AgentListActivity</string>
+    <string name="show_agents_button_text">Show Agents List</string>
+</resources>
